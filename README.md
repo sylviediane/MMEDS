@@ -1,2 +1,2 @@
 # Parametric_ins
-keeping drafts
+I will be keeping drafts of the documents used in parametric insurance roject here
